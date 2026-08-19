@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://www.c-language.org/" target="_blank">
-    <img src=["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"](https://www.c-language.org/)
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
          width="50" height="50" alt="C"/>
   </a>
 
@@ -56,11 +56,6 @@
   <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg"
          width="50" height="50" alt="CUDA"/>
-  </a>
-
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-         width="50" height="50" alt="NumPy"/>
   </a>
 
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
