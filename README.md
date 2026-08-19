@@ -29,15 +29,10 @@
 
 ## 🛠️ Languages & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,cmake,linux,vscode,visualstudio" />
-</p>
+<h3 align="left">Kullanılan Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" <p><img align =
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=700&center=true&vCenter=true&width=650&lines=C%2B%2B;Python;CMake;Git+%26+GitHub;Linux;CUDA;Eigen" />
-</p>
-
----
+"center" src="https://github-readme-stats.vercel.app/api/top-langs?username=canerr36&show_icons=true&locale=en&layout=compact" alt="canerr36" /></p>
 
 ## 📚 Currently Learning
 
