@@ -30,7 +30,7 @@
 ## 🛠️ Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,git,github,cmake,linux,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,cmake,vscode,visualstudio,arduino" />
 </p>
 
 <p align="center">
