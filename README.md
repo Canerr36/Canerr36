@@ -28,83 +28,16 @@
 ---
 
 ## 🛠️ Languages & Technologies
-<p align="left">
 
-  <!-- Programming Languages -->
-  <strong>Languages:</strong><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,git,github,cmake,linux,vscode,visualstudio" />
+</p>
 
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-         width="50" height="50" alt="C++"/>
-  </a>
-
-  <a href="https://www.c-language.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-         width="50" height="50" alt="C"/>
-  </a>
-
-  <br><br>
-
-  <!-- Scientific Computing -->
-  <strong>Scientific Computing & ML:</strong><br><br>
-
-  <a href="https://eigen.tuxfamily.org/" target="_blank">
-    <img src="https://eigen.tuxfamily.org/dox/logo.svg"
-         width="50" height="50" alt="Eigen"/>
-  </a>
-
-  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg"
-         width="50" height="50" alt="CUDA"/>
-  </a>
-
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
-         width="50" height="50" alt="MATLAB"/>
-  </a>
-
-  <br><br>
-
-  <!-- Build & Tools -->
-  <strong>Tools & Environment:</strong><br><br>
-
-  <a href="https://cmake.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"
-         width="50" height="50" alt="CMake"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-         width="50" height="50" alt="Git"/>
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         width="50" height="50" alt="GitHub"/>
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-         width="50" height="50" alt="VS Code"/>
-  </a>
-
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
-         width="50" height="50" alt="Visual Studio"/>
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-         width="50" height="50" alt="Linux"/>
-  </a>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=700&center=true&vCenter=true&width=650&lines=C%2B%2B;Python;CMake;Git+%26+GitHub;Linux;CUDA;Eigen" />
 </p>
 
 ---
-
-### 🧠 Areas of Interest
-
-`C++` · `Linear Algebra` · `Scientific Computing` · `Machine Learning` · `CUDA` · `Physics Simulations` · `Numerical Methods`
 
 ## 📚 Currently Learning
 
