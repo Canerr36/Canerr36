@@ -72,3 +72,5 @@ Computer Science
 | Scientific Computing | Numerical Methods / Simulation |
 | Development          | Visual Studio / VS Code        |
 | Problem Solving      | Project Euler / Algorithms     |
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
