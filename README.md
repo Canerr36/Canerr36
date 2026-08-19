@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=700&center=true&vCenter=true&width=650&lines=C%2B%2B;Python;CMake;Git+%26+GitHub;Linux;CUDA;Eigen" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=700&center=true&vCenter=true&width=650&lines=C%2B%2B;CMake;Git+%26+GitHub;CUDA;Eigen;Arduino" />
 </p>
 
 ---
