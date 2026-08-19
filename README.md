@@ -38,9 +38,9 @@
          width="50" height="50" alt="C++"/>
   </a>
 
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-         width="50" height="50" alt="Python"/>
+  <a href="https://www.c-language.org/" target="_blank">
+    <img src=["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"](https://www.c-language.org/)
+         width="50" height="50" alt="C"/>
   </a>
 
   <br><br>
